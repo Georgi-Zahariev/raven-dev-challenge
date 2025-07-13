@@ -1,6 +1,7 @@
 # High-Performance Order Book
 
 A real-time cryptocurrency order book implementation that connects to Binance WebSocket streams. Built for the Raven Developer Challenge.
+YouTube link: https://youtu.be/oGTKVbSRoYY , it shows some basic commands and that my app is working properly from my machine.
 
 ## Quick Start
 

@@ -1,0 +1,33 @@
+# Exclude submission checklist (internal use only)
+SUBMISSION_CHECKLIST.md
+
+# Keep generated artifacts out (these can be rebuilt)
+*.test
+*.out
+*.prof
+orderbook-demo
+cpu.out
+mem.out
+
+# Go build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
